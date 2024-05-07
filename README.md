@@ -62,7 +62,11 @@ In the core functional logic:
 ![login](https://github.com/shoroukabdelraouf/FP_with_Scala_-retail_store_rule_engine_qualifies_orders-_transactions/blob/31534dc15290339afcd22a14c7d4e966e4363ec9/screens/orders_csv.png)   
 
 -**Output data:**  
-![login](https://github.com/shoroukabdelraouf/FP_with_Scala_-retail_store_rule_engine_qualifies_orders-_transactions/blob/9c9c0334b6153de677ca0f5288ae6fd8f46db341/screens/toad%20output.png)
+![login](https://github.com/shoroukabdelraouf/FP_with_Scala_-retail_store_rule_engine_qualifies_orders-_transactions/blob/9c9c0334b6153de677ca0f5288ae6fd8f46db341/screens/toad%20output.png)  
+
+-**log file:**  
+![login](https://github.com/shoroukabdelraouf/FP_with_Scala_-retail_store_rule_engine_qualifies_orders-_transactions/blob/2652a0a6b5f87d4dde267a0d561adb9d504fd248/screens/log%20file.png)  
+
 
 
 
