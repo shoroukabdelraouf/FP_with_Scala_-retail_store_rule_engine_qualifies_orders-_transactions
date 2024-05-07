@@ -38,4 +38,7 @@ If quantity 6, 7, 8, 9, 10 ‐> discount 10%.
 If quantity 11, 12, 13, 14, 15 ‐> discount 15%.
  etc …
  - **Payment Method Discount:**  
-   If the payment method is "Visa", a discount of 5% is applied. Otherwise, no discount is applied.   
+   If the payment method is "Visa", a discount of 5% is applied. Otherwise, no discount is applied.
+
+ Transactions that didn’t qualify to any discount will have 0% discount.   
+ Transactions that qualified to more than one discount will get the top 2 and get their average. 
