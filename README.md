@@ -29,9 +29,9 @@ If the quantity is between 6 and 9, a discount of 5% is applied.
 If the quantity of products purchased is between 10 and 14, a discount of 7% is applied.  
 If the quantity of products purchased is 15 or more, a discount of 10% is applied.  
 Otherwise, no discount is applied.
- - **Purchasing Channel Discount:**
+ - **Purchasing Channel Discount:**  
  Qualifying Rule:   
-  Sales that are made through the "App" will have a special discount. A discount of the quantity rounded up to the nearest multiple of 5 is applied. Otherwise, no discount is applied.
+  Sales that are made through the "App" will have a special discount. A discount of the quantity rounded up to the nearest multiple of 5 is applied. Otherwise, no discount is applied.  
  Discount calculation rules:    
 If quantity: 1, 2, 3, 4, 5 ‐> discount 5%.  
 If quantity 6, 7, 8, 9, 10 ‐> discount 10%.  
