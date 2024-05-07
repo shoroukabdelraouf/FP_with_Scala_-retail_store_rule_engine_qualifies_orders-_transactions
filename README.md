@@ -24,7 +24,7 @@ etc …
 - **Quantity Discount:**  
   Qualifying Rule:  
    If the quantity of products purchased is more than 5 of the same product, a discount will be applied.    
-  Discount calculation rules: 
+  Discount calculation rules:   
 If the quantity is between 6 and 9, a discount of 5% is applied.  
 If the quantity of products purchased is between 10 and 14, a discount of 7% is applied.  
 If the quantity of products purchased is 15 or more, a discount of 10% is applied.  
