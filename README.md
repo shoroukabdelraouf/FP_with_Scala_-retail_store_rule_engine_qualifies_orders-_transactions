@@ -56,7 +56,8 @@ In the core functional logic:
 ## Tools and Technologies:
  Scala Programming Language.
  oracle database.
- IntelliJ IDE.
- 
+ IntelliJ IDE.  
+
+
 
 
