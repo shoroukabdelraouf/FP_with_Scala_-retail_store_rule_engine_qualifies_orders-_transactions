@@ -1,4 +1,4 @@
-# Functional Programming with Scala (retail store rule engine ualifies orders' transactions)  
+# Functional Programming with Scala (Retail Store Rule Engine Qualifies Orders' Transactions)  
 ### A simple Scala Rule Engine that qualifies orders’ transactions to discounts based on a set of qualifying rules & automatically calculates the proper discount based on some calculation rules.Then writes the results to an oracle database & keeps tracking the logs data.  
 ## Problem Statement:  
 A huge retail store wants a rule engine that qualifies orders’ transactions to discounts based on a set of qualifying rules. And automatically calculates the proper discount based on some calculation rules.  
@@ -37,5 +37,5 @@ If quantity: 1, 2, 3, 4, 5 ‐> discount 5%.
 If quantity 6, 7, 8, 9, 10 ‐> discount 10%.  
 If quantity 11, 12, 13, 14, 15 ‐> discount 15%.
  etc …
- - **Payment Method Discount:**
+ - **Payment Method Discount:**  
    If the payment method is "Visa", a discount of 5% is applied. Otherwise, no discount is applied.   
