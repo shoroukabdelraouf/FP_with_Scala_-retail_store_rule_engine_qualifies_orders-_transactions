@@ -52,7 +52,11 @@ In the core functional logic:
  No loops allowed and no Null values are used.  
  All your functions are pure.  
  All functions are documented. 
-   
+
+## Tools and Technologies:
+ Scala Programming Language.
+ oracle database.
+ IntelliJ IDE.
  
 
 
