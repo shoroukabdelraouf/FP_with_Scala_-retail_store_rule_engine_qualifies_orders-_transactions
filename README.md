@@ -58,6 +58,7 @@ In the core functional logic:
  oracle database.
  IntelliJ IDE.  
 
+![login](https://github.com/shoroukabdelraouf/FP_with_Scala_-retail_store_rule_engine_qualifies_orders-_transactions/blob/31534dc15290339afcd22a14c7d4e966e4363ec9/screens/orders_csv.png)
 
 
 
