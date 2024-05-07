@@ -41,4 +41,7 @@ If quantity 11, 12, 13, 14, 15 ‐> discount 15%.
    If the payment method is "Visa", a discount of 5% is applied. Otherwise, no discount is applied.
 
  Transactions that didn’t qualify to any discount will have 0% discount.   
- Transactions that qualified to more than one discount will get the top 2 and get their average. 
+ Transactions that qualified to more than one discount will get the top 2 and get their average.   
+ calculate the final price and load the result in a database table of your choice.  
+ It is required to log the engine’s events in a log file “rules_engine.log”.   
+
