@@ -5,7 +5,7 @@ A huge retail store wants a rule engine that qualifies orders’ transactions to
 ## Discount Calculations:  
 - **Expiration Date Discount:**  
 Qualifying Rule:  
- if the number of days is less than 30 days remaining for the product to expire (from the day of transaction, i.e. timestamp).
+ if the number of days is less than 30 days remaining for the product to expire (from the day of transaction, i.e. timestamp).   
 Discount calculation rules:     
 if 29 days remaining -> 1% discount 
 if 28 days remaining -> 2% discount 
